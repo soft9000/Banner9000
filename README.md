@@ -9,4 +9,4 @@ banner.big_print(" got", 4, '@')
 banner.big_print("Bigger", 2, 'B')
 ```
 
-Now available on [PyPi](https://pypi.org/project/Banner-9000/), we've also [a video](https://www.youtube.com/watch?v=XBbkdlYs9hM).
+Now available on [PyPi](https://pypi.org/project/Banner-9000/), we've also [a video](https://youtu.be/Dxa0PkmgG3Q).
