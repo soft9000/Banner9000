@@ -1,6 +1,8 @@
 #! /usr/bin/env python3
-
-''' Classic, Big Character Printer '''
+''' Classic, Big Character Printer
+2023/07/18 - Shared on PyPi.org @ https://pypi.org/project/Banner-9000/
+2025/11/22 - Added ':' and ';' (as in ";-)" and ":-D")
+'''
 
 
 glyph_dict = \
@@ -102,6 +104,24 @@ glyph_dict = \
        ' XX     ',
        '  X     ',
        ' X      ',
+       '        '],
+  ';': ['        ',
+       ' XX     ',
+       ' XX     ',
+       '        ',
+       '        ',
+       ' XX     ',
+       '  X     ',
+       ' X      ',
+       '        '],
+  ':': ['        ',
+       ' XX     ',
+       ' XX     ',
+       '        ',
+       '        ',
+       ' XX     ',
+       ' XX     ',
+       '        ',
        '        '],
  '-': ['        ',
        '        ',
